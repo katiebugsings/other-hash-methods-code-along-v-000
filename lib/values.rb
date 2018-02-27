@@ -16,5 +16,5 @@ def get_the_values(groceries)
   grains: ["rice", "pasta"]
 }
 groceries[:dairy, :vegetable, :meat, :grains]
-groceries
+
 end
